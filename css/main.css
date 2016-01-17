@@ -1,0 +1,133 @@
+header {
+	background: #F6F908;
+	padding: 10px;
+	margin-bottom: 10px;
+}
+
+nav {
+	background: #F95708;
+    float: left;
+    margin-right: 29px;
+    margin-left: 30px;
+    margin-bottom: 10px;
+    width: 20%;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+main {
+    background: #DAF0BB;
+    float: left;
+    margin-right: 30px;
+    width: 72.8%;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+h1 {
+	background: #F6E1B9;
+	border-radius: 5px;
+	padding: 5px;
+}
+
+h2 {
+	text-align: center;
+}
+
+section {
+	border-radius: 5px;
+    display: inline-block;
+    margin: 35px;
+    margin: 35px 35px 0 35px;
+}
+
+footer {
+	background: #EFBBF0;
+	clear: both;
+	padding: 10px;
+}
+
+article {
+	background: #B5F8F1;
+}
+
+header time {
+	background: #B9F6DE;
+    width: 100%;
+    padding: 5px;
+    border-radius: 5px;
+    display: block;
+}
+
+section header {
+	background: #EFC9F4;
+	border-radius: 5px;
+}
+
+article footer {
+	background: #EDCE53;
+	border-radius: 5px;
+}
+
+section article {
+	padding: 10px;
+	border-radius: 5px;
+	margin-bottom: 35px;
+}
+
+section > article > article {
+	background: #AFF09B;
+	margin: 10px 10px 10px 50px;
+}
+
+section > article > article > time {
+	background: #F6B5F8;
+    width: 100%;
+    padding: 5px;
+    border-radius: 5px;
+    display: block;
+    margin-bottom: 5px;
+}
+
+div {
+	background: #FBF205;
+    padding: 10px 15px 18px 15px;
+    border-radius: 5px;
+}
+
+input {
+	width: 80% !important;
+	float: left;
+}
+
+button {
+    width: 18%;
+    margin: 3px 0 0 8px;
+}
+
+
+
+
+
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
